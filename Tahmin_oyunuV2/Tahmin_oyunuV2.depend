@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615657611 source:c:\users\boran\desktop\bsl\tahmin_oyunuv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

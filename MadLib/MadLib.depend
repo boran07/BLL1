@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615226289 source:c:\users\boran\desktop\bsl\madlib\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615655214 source:c:\users\boran\desktop\bsl\ic_ice\main.c
+	<stdio.h>
+	<stdlib.h>
+

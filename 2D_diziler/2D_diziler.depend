@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615655721 source:c:\users\boran\desktop\bsl\2d_diziler\main.c
+	<stdio.h>
+	<stdlib.h>
+
