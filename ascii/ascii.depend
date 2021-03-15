@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615821140 source:c:\users\boran\desktop\bsl\1es5ons\ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+

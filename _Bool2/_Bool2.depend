@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615823369 source:c:\users\boran\desktop\bsl\1es5ons\_bool2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
