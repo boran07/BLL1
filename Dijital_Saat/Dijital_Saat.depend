@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616000351 source:c:\users\boran\desktop\bsl\1es5ons\3_17_2021\dijital_saat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
